@@ -1,0 +1,21 @@
+table {
+	margin: auto;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+}
+
+.a {
+	border-left: 1px solid #000000;
+	border-right: 1px solid #000000
+}
+.b {
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+
+h1 {
+	text-align: center;
+}
